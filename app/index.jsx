@@ -10,9 +10,7 @@ export default function Index() {
     >
       <Link href={'/login'}>
       <Text 
-      style={{
-        fontFamily:'Outfit'
-      }}
+   
       >Go to LoginScreen</Text>
       </Link>
     </View>
